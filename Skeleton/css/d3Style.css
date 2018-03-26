@@ -1,0 +1,51 @@
+
+
+#scatter {
+/*	width:800px;
+	height:800px;*/
+	width: 100%; height: 100%;
+  background-color: #727272;
+}
+
+.tooltip {
+  line-height: 1;
+  padding: 6px;
+  background: #EDF5E1;
+  color: #379683;
+  border-radius: 4px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.x-axis path{
+  color: #05386B;
+  stroke: #05386B;
+}
+
+.y-axis path{
+  color: #05386B;
+  stroke: #05386B;
+}
+
+.axis-text.inactive.yLabel{
+  color: #05386B;
+}
+
+.axis-text.active.yLabel{
+  font-weight: bold;
+  color: #05386B;
+}
+
+.axis-text.inactive.xLabel{
+  color: #05386B;
+}
+
+.axis-text.active.xLabel{
+  font-weight: bold;
+  color: #05386B;
+}
+
+
+
+
+
